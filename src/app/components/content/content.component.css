@@ -1,0 +1,13 @@
+.container {
+  height: 100%;
+  display: flex;
+}
+
+.card {
+  margin: 10px;
+  width: 200px;
+  height: 200px;
+  background: grey;
+  text-align: center;
+  border: black 5px solid;
+}
