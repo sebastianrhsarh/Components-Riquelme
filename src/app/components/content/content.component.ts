@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./content.component.css']
 })
 export class ContentComponent {
+  data = [
+    {
+      src: "./../../../assets/paisaje.jpg"
+    }
+  ]
 
 }

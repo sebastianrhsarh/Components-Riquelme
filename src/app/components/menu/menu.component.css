@@ -1,0 +1,21 @@
+.container {
+  height: auto;
+  padding: 10px;
+  font-family: fantasy;
+}
+
+.title {
+  color: cornsilk;
+  font-size: 25px;
+}
+
+.country {
+  margin: 20px 0px;
+  padding: 5px;
+}
+
+.country:hover {
+  background-color: seagreen;
+  cursor: pointer;
+  border-radius: 5px;
+}
